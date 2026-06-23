@@ -4,9 +4,9 @@
 > משמש במפגש 7 לסינתזת Communication Style של Agent 2.
 
 ## מצב נוכחי
-- **מפגש אחרון שהושלם:** 7
-- **מפגש בא:** 8 — הרכבה ומבחן
-- **סטטוס:** סוף מפגש 7 — **המוח של ג'ונאם מוכן**
+- **מפגש אחרון שהושלם:** 8
+- **מפגש בא:** הקורס 🎓
+- **סטטוס:** **הושלם — ג'ונאם חי**
 
 ## פרטי מסע (סטטיים)
 - **שם תלמיד:** אסף קוסטיקה (שם חיבה: ספי — שמור ללקוחות ותיקים בלבד)
@@ -33,8 +33,8 @@
 - [x] master-library/course-tools.md ✅ (מפגש 7 — placeholder)
 - [x] master-library/course-lessons.md ✅ (מפגש 7 — placeholder)
 - [x] master-library/course-projects.md ✅ (מפגש 7 — placeholder)
-- [ ] master-library/ — עותקים של 7 קבצי הידע מהשורש (במפגש 8)
-- [ ] .claude-plugin/plugin.json (במפגש 8)
+- [x] master-library/ — 7 קבצי ידע הועתקו מהשורש ✅ (מפגש 8)
+- [x] .claude-plugin/plugin.json ✅ (מפגש 8)
 
 ## תצפיות מצטברות על המשתמש
 

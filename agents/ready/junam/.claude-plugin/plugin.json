@@ -1,0 +1,9 @@
+{
+  "name": "junam",
+  "version": "1.0.0",
+  "description": "ג'ונאם — העוזר האישי של אסף קוסטיקה בקורס טירונות סוכנים של אִימפּרוּב.",
+  "author": {
+    "name": "אסף קוסטיקה"
+  },
+  "keywords": ["personal-agent", "tironot-sochnim", "aimprove", "hebrew", "legal", "business"]
+}
