@@ -1,0 +1,9 @@
+{
+  "name": "whatsapp-evidence",
+  "version": "0.1.0",
+  "description": "מחלץ ראיות וואטסאפ — סוכן תהליך שקורא ייצוא שיחות וואטסאפ ומפיק חומר ראיות מובנה לניסוח כתבי טענות ותצהירים. מזין את ג'ונאם.",
+  "author": {
+    "name": "אסף קוסטיקה"
+  },
+  "keywords": ["litigation", "evidence", "whatsapp", "legal", "hebrew", "process-agent", "junam"]
+}
