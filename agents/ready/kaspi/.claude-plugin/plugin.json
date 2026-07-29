@@ -1,0 +1,9 @@
+{
+  "name": "kaspi",
+  "version": "1.0.0",
+  "description": "כספי — סוכן הכספים של אסף קוסטיקה למסעדנות. מחשבוניות בונה דוחות רווח והפסד פר מסעדה, לוח תשלומים לספקים, וטיוטות תלושי שכר (לאימות חשב שכר). מזין את ג'ונאם ואת skill דוחות P&L.",
+  "author": {
+    "name": "אסף קוסטיקה"
+  },
+  "keywords": ["finance", "restaurant", "pnl", "payroll", "suppliers", "hebrew", "process-agent", "junam", "kaspi"]
+}
